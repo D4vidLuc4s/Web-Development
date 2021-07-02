@@ -80,6 +80,12 @@
                         <li>
                             <a href="exercicio.php?dir=modulos/variaveis&file=basico">Básico Variáveis</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=modulos/variaveis&file=desafio_equacao">Desafio Equação</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=modulos/variaveis&file=atribuicoes">Atribuições</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
