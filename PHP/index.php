@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -85,6 +85,38 @@
                         </li>
                         <li>
                             <a href="exercicio.php?dir=modulos/variaveis&file=atribuicoes">Atribuições</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=modulos/variaveis&file=interpolacao">Interpolação</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=modulos/variaveis&file=variaveis_variaveis">Variáveis variáveis</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=modulos/variaveis&file=desafio_variaveis">Desafio variáveis</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=modulos/variaveis&file=valor_referencia">Valor VS Referência</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=modulos/variaveis&file=constantes">Constantes</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo amarelo">
+                    <h3>Módulo 04 - Controle</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=modulos/controle&file=if_else">If else</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=modulos/controle&file=operadores_relacionais">Operadores Relacionais</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=modulos/controle&file=desafio_pi">Desafio PI</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=modulos/controle&file=operadores_logicos">Operadores Lógicos</a>
                         </li>
                     </ul>
                 </div>

@@ -151,3 +151,10 @@ body {
 .modulo.rosa > h3 {
     background-color: #eb1389;
 }
+
+.modulo.verde-limao {
+    border: 2px solid #05e937;
+}
+.modulo.verde-limao > h3 {
+    background-color: #05e937;
+}
