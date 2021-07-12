@@ -118,6 +118,12 @@
                         <li>
                             <a href="exercicio.php?dir=modulos/controle&file=operadores_logicos">Operadores Lógicos</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=modulos/controle&file=desafio_op_logicos">Desafio Operadores Lógicos</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=modulos/controle&file=operador_ternario">Operador Ternario</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
